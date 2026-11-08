@@ -1,0 +1,14 @@
+{
+  "name": "QuickAuthorID",
+  "description": "Adds Copy Author ID to the message long-press menu.",
+  "authors": [
+    {
+      "name": "Local plugin build"
+    }
+  ],
+  "main": "index.js",
+  "hash": "03cc0f7e92d488dea0c88e7e591bea2e1f21cc8e1c00ac02b29a8ba4127fd69d",
+  "vendetta": {
+    "icon": "ic_chat_bubble_16px"
+  }
+}
